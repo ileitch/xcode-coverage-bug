@@ -1,0 +1,22 @@
+{
+  "name": "Shared",
+  "version": "0.1.0",
+  "summary": "A short description of Shared.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ian Leitch/Shared",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ian Leitch": "port001@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Ian Leitch/Shared.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Shared/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Shared {
+  umbrella header "Shared-umbrella.h"
+
+  export *
+  module * { export * }
+}
